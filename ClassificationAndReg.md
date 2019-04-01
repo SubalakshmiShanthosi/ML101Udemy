@@ -40,3 +40,5 @@
 
 ![Screenshot](https://github.com/SubalakshmiShanthosi/ML101Udemy/blob/master/RecallEx.png)
 
+![Screenshot](https://github.com/SubalakshmiShanthosi/ML101Udemy/blob/master/precisionndrecall.png)
+
